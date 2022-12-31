@@ -14,7 +14,7 @@ for i in range(1,10000):
 	if 1%10==0:
 		print( f"{s} HAPPY NEW YEAR 2023")
 	else:
-		print (s+="*")
+		print (s+"*")
 	s=" "
 	time.sleep(0.3)
 	
